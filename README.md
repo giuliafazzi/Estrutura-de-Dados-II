@@ -3,8 +3,11 @@
 Trabalhos da disciplina Estrutura de Dados II (ou Organização e Recuperação da Informação)
 
 
+
 Universidade Federal de São Carlos (UFSCar) - Campus Sorocaba
+
 Bacharelado em Ciência da Computação
+
 2019/2
 
 ## Trabalho 1
